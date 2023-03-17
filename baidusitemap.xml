@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baize.cc/posts/991a.html</loc>
+    <lastmod>2023-03-17</lastmod>
+  </url>
+  <url>
     <loc>https://baize.cc/posts/632e.html</loc>
     <lastmod>2021-10-22</lastmod>
   </url>
@@ -33,7 +37,7 @@
     <lastmod>2021-10-21</lastmod>
   </url>
   <url>
-    <loc>https://baize.cc/posts/fa9f.html</loc>
+    <loc>https://baize.cc/posts/12a1.html</loc>
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
@@ -41,11 +45,7 @@
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
-    <loc>https://baize.cc/posts/12a1.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/d931.html</loc>
+    <loc>https://baize.cc/posts/fa9f.html</loc>
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
@@ -53,43 +53,7 @@
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
-    <loc>https://baize.cc/posts/a7ac.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/4935.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/7f56.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/ebe6.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/3184.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/7.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/os.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/462d.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/58b2.html</loc>
-    <lastmod>2021-10-13</lastmod>
-  </url>
-  <url>
-    <loc>https://baize.cc/posts/ed21.html</loc>
+    <loc>https://baize.cc/posts/3.html</loc>
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
@@ -97,7 +61,15 @@
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
-    <loc>https://baize.cc/posts/e4ca.html</loc>
+    <loc>https://baize.cc/posts/ed21.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/a7ac.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/3184.html</loc>
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
@@ -117,11 +89,43 @@
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
-    <loc>https://baize.cc/posts/3.html</loc>
+    <loc>https://baize.cc/posts/d931.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/4935.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/7f56.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/ebe6.html</loc>
     <lastmod>2021-10-13</lastmod>
   </url>
   <url>
     <loc>https://baize.cc/posts/688b.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/7.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/os.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/462d.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/58b2.html</loc>
+    <lastmod>2021-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://baize.cc/posts/e4ca.html</loc>
     <lastmod>2021-10-13</lastmod>
   </url>
 </urlset> 
